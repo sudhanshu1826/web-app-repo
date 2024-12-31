@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+#apple{
+    height: 20px;
+}
+#search{
+    height: 15px;
+}
+#navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: silver;
+    margin: 0;
+    padding: 0;
+}
